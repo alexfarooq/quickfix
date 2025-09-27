@@ -254,7 +254,7 @@
               <button
                 type="submit"
                 disabled={!jobDescription.trim()}
-                class="absolute right-2 top-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed transition-all font-medium text-sm whitespace-nowrap"
+                class="absolute right-2  px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed transition-all font-medium text-sm whitespace-nowrap"
               >
                 Start →
               </button>
